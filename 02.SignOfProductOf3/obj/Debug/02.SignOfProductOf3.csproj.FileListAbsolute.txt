@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\02.SignOfProductOf3\bin\Debug\02.SignOfProductOf3.exe.config
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\02.SignOfProductOf3\bin\Debug\02.SignOfProductOf3.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\02.SignOfProductOf3\bin\Debug\02.SignOfProductOf3.pdb
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\02.SignOfProductOf3\obj\Debug\02.SignOfProductOf3.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\02.SignOfProductOf3\obj\Debug\02.SignOfProductOf3.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\02.SignOfProductOf3\obj\Debug\02.SignOfProductOf3.pdb

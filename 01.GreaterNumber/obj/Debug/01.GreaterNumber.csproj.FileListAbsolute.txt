@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\01.GreaterNumber\bin\Debug\01.GreaterNumber.exe.config
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\01.GreaterNumber\bin\Debug\01.GreaterNumber.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\01.GreaterNumber\bin\Debug\01.GreaterNumber.pdb
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\01.GreaterNumber\obj\Debug\01.GreaterNumber.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\01.GreaterNumber\obj\Debug\01.GreaterNumber.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\01.GreaterNumber\obj\Debug\01.GreaterNumber.pdb

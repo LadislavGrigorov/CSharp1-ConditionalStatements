@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\04.Sort3RealValues\bin\Debug\04.Sort3RealValues.exe.config
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\04.Sort3RealValues\bin\Debug\04.Sort3RealValues.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\04.Sort3RealValues\bin\Debug\04.Sort3RealValues.pdb
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\04.Sort3RealValues\obj\Debug\04.Sort3RealValues.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\04.Sort3RealValues\obj\Debug\04.Sort3RealValues.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\04.Sort3RealValues\obj\Debug\04.Sort3RealValues.pdb

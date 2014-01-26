@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\03.BiggestOfThree\bin\Debug\03.BiggestOfThree.exe.config
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\03.BiggestOfThree\bin\Debug\03.BiggestOfThree.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\03.BiggestOfThree\bin\Debug\03.BiggestOfThree.pdb
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\03.BiggestOfThree\obj\Debug\03.BiggestOfThree.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\03.BiggestOfThree\obj\Debug\03.BiggestOfThree.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\03.BiggestOfThree\obj\Debug\03.BiggestOfThree.pdb

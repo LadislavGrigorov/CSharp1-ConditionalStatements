@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\08.UserVar\bin\Debug\08.UserVar.exe.config
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\08.UserVar\bin\Debug\08.UserVar.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\08.UserVar\bin\Debug\08.UserVar.pdb
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\08.UserVar\obj\Debug\08.UserVar.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\08.UserVar\obj\Debug\08.UserVar.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\08.UserVar\obj\Debug\08.UserVar.pdb

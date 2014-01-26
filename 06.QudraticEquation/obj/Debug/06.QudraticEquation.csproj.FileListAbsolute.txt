@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\06.QudraticEquation\bin\Debug\06.QudraticEquation.exe.config
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\06.QudraticEquation\bin\Debug\06.QudraticEquation.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\06.QudraticEquation\bin\Debug\06.QudraticEquation.pdb
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\06.QudraticEquation\obj\Debug\06.QudraticEquation.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\06.QudraticEquation\obj\Debug\06.QudraticEquation.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\06.QudraticEquation\obj\Debug\06.QudraticEquation.pdb

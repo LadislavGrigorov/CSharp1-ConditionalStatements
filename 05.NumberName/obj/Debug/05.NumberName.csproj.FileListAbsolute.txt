@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\05.NumberName\bin\Debug\05.NumberName.exe.config
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\05.NumberName\bin\Debug\05.NumberName.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\05.NumberName\bin\Debug\05.NumberName.pdb
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\05.NumberName\obj\Debug\05.NumberName.exe
+D:\Telerik\C# Part I\05.Условни конструкции\Conditional-Statements-Homework\ConditionalStatements\05.NumberName\obj\Debug\05.NumberName.pdb
